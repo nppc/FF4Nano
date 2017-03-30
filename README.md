@@ -7,10 +7,15 @@ Supports latest Betaflight.
 
 # Features
 STM32F4 CPU
+
 USB
+
 SBUS
+
 VBAT
+
 Buzzer
+
 MPU-6000
 
 # Schematic
