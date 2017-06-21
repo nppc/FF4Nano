@@ -2,6 +2,7 @@
 Nano F4 Flight Controller Board
 
 PCB size is 16.87mm X 15.93mm. World smallest F4 Flight Controller board (as of year 2017).
+
 Weight 1.5gr.
 
 Supports latest Betaflight.
